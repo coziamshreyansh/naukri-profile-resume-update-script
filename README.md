@@ -37,9 +37,9 @@ Modify the `main.go` file to include your Naukri login credentials:
 
 ```go
 const (
-    email    = "your-email@example.com"
-    password = "your-secure-password"
-    resume   = "path/to/your-resume.pdf"
+    email    = "email@xyz.com"
+    password = "Pwd@123"
+    resume   = "path/your-resume.pdf"
 )
 ```
 
